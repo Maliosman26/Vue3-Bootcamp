@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2428e53-1c83-4e81-bb44-bdab74ec356f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Vue3-Bootcamp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HAFTA-3/3-http-requests/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HAFTA-3/3-http-requests/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HAFTA-3/3-http-requests/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HAFTA-3/3-http-requests/database.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HAFTA-3/3-http-requests/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HAFTA-3/3-http-requests/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HAFTA-3/3-http-requests/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HAFTA-3/3-http-requests/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HAFTA-3/3-http-requests/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HAFTA-3/3-http-requests/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HAFTA-3/3-http-requests/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HAFTA-3/3-http-requests/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HAFTA-3/3-http-requests/src/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HAFTA-3/3-http-requests/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HAFTA-3/3-http-requests/vue.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HAFTA-3/3-http-requests/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Vue.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HAFTA-2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HAFTA-2/.idea/HAFTA-2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HAFTA-2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HAFTA-2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HAFTA-2/.idea/prettier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HAFTA-2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HAFTA-3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HAFTA-3/.idea/HAFTA-3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HAFTA-3/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HAFTA-3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HAFTA-3/.idea/prettier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HAFTA-3/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2X4wnOY7Q7kPASHMDrzewjHAf0X" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/maliosmanair/Project/Vue3/Vue3-Bootcamp/HAFTA-3/3-http-requests/src/assets",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "prettierjs.PrettierConfiguration.Package": "/Users/maliosmanair/.nvm/versions/node/v18.17.1/lib/node_modules/prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HAFTA-3/3-http-requests/src/assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2428e53-1c83-4e81-bb44-bdab74ec356f" name="Changes" comment="" />
+      <created>1697901826802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697901826802</updated>
+      <workItem from="1697901828046" duration="5095000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
