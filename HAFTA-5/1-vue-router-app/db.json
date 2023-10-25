@@ -1,0 +1,22 @@
+{
+  "bookmarks": [
+    {
+      "title": "kablosuzkedi",
+      "url": "https://www.kablosuzkedi.com",
+      "description": "bu sacma sapan bir kedi",
+      "id": 1
+    },
+    {
+      "title": "prototürk",
+      "url": "https://www.prototurk.com",
+      "description": "bu arkadaş nedir Allah için",
+      "id": 2
+    },
+    {
+      "title": "deneme",
+      "url": "https://www.deneme.com",
+      "description": "deneme",
+      "id": 3
+    }
+  ]
+}
