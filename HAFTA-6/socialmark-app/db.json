@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "username": "maliosman26",
+      "fullname": "M.Ali Osman ÖZYURT",
+      "password": "U2FsdGVkX1+8UQ92tmW2g9aZzugTSHw32a4J/+oIUCQ=",
+      "id": 1
+    },
+    {
+      "username": "prototurk",
+      "fullname": "Tayfun Erbilen",
+      "password": "U2FsdGVkX18srpcDL3+55NYYYksG+erlp2IarK1vvxA=",
+      "id": 2
+    },
+    {
+      "username": "mal,",
+      "fullname": "asdkasd",
+      "password": "U2FsdGVkX1/rHjehbP3WSuDX0PGbYtsGfcB/9pgEYzM=",
+      "id": 3
+    }
+  ],
+  "bookmarks": [],
+  "categories": []
+}

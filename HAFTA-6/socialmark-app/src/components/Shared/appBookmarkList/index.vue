@@ -1,0 +1,17 @@
+<!-- eslint-disable vue/multi-word-component-names -->
+<template>
+  <div>
+    <div class="p-2 grid grid-cols-8 gap-4">
+      <BookmarkListItem v-for="i in 10" :key="i" />
+    </div>
+  </div>
+</template>
+
+<script>
+import BookmarkListItem from "@/components/Shared/appBookmarkList/BookmarkListItem.vue";
+export default {
+  components: {
+    BookmarkListItem,
+  },
+};
+</script>
